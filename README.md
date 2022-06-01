@@ -6,3 +6,6 @@ Threads
 
 ### Short descriptiion
 Basic multithreading mechanisms in Java
+
+### Grade
+100/100
